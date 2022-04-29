@@ -1,4 +1,4 @@
-Algoritmo "ExercÌcio_4"
+Algoritmo "Exerc√≠cio_4"
 Var
     contadorIdade, idade,  maiorIdade, menorIdade: inteiro
     sexo, auxSexo: caractere
@@ -24,8 +24,8 @@ Enquanto (idade > 0) faca
             //se ((sexo = "M") ou (sexo = "F"))entao  4
             fimenquanto
 
-            //entrada sal·rio
-            Escreval("Informe o sal·rio da pessoa: ")
+            //entrada sal√°rio
+            Escreval("Informe o sal√°rio da pessoa: ")
             Leia (salario)
 
             //media dos salarios
@@ -71,8 +71,10 @@ Enquanto (idade > 0) faca
 Fimenquanto
 
 
-Escreval("A media dos salarios È de: R$", mediaSalario)
-Escreval("A a maior idade È de: ", maiorIdade)
-Escreval("A menor idade È de: ", menorIdade)
-Escreval("A quantidade de mulheres que ganham mais de R$ 4000,00 È de: ",  qtdSalarioMaior)
-Escreval("A idade e o sexo da pessoa que possui o menor sal·rio s„o: ", auxIdade, " ", auxSexo)
+Escreval("A media dos salarios √© de: R$", mediaSalario)
+Escreval("A a maior idade √© de: ", maiorIdade)
+Escreval("A menor idade √© de: ", menorIdade)
+Escreval("A quantidade de mulheres que ganham mais de R$ 4000,00 √© de: ",  qtdSalarioMaior)
+Escreval("A idade e o sexo da pessoa que possui o menor sal√°rio s√£o: ", auxIdade, " ", auxSexo)
+
+Fimalgoritmo
